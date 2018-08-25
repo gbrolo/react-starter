@@ -1,2 +1,5 @@
 # react-starter
-A React starter bundler to init a simple project
+A React boilerplate to init a simple project
+
+## Installation
+Run ```npm install``` or ```yarn install```
